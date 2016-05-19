@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myVolley</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- volley配置 -->
+    <string name="no_network_connection" translatable="false">无网络连接</string>
+    <string name="generic_server_down" translatable="false">服务器挂了</string>
+    <string name="generic_server_timeout" translatable="false">服务器超时</string>
+    <string name="generic_error" translatable="false">网络问题</string>
+    <string name="no_internet" translatable="false">网络问题</string>
+    <string name="parsing_failed" translatable="false">解析失败</string>
+    <string name="auth_failed" translatable="false">身份验证失败</string>
+
+</resources>
