@@ -42,6 +42,7 @@ public class MainActivity extends BaseActivity implements DataCallback {
     private String password="q11111";
     
     private String mobile="13260097242";
+    private String mobile2="13260097242";
 
     @Override
     protected void findViewbyId() {
